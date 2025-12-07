@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "openauth-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c1852b7d-8b28-4e69-8a01-77a9e3cdf9c0",
+			"database_name": "openauth-template"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
